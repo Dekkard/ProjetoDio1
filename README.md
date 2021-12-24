@@ -1,2 +1,2 @@
 # ProjetoDio1
-Proejto 1 de aplicaÃ§Ã£o Java para o Bootcamp Amdocs
+Projeto 1 de aplicação Java para o Bootcamp Amdocs
